@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filter_options">
+        <item>All</item>
+        <item>Company</item>
+        <item>Personal</item>
+    </string-array>
+</resources>
